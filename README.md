@@ -1,6 +1,19 @@
-# test
-hello
-1. lalala
-2. lalala
-3. lalala
-4. lalala
+# 自我介绍
+我叫肖斌，我的爱好是 
+* 敲代码
+* 敲代码
+* 敲代码
+* 敲代码
+
+我的工作格言是：一杯茶，一支烟，一个bug改一天
+
+我的技术栈是
+1. `html`
+2. `css`
+3. `javascript`
+4. `vue`
+5. ...
+
+```
+alert('你好世界')
+```
